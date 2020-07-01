@@ -19,5 +19,9 @@ namespace WEB2.Controllers
         {
             return View();
         }
+        public ActionResult Index4()
+        {
+            return View();
+        }
     }
 }
