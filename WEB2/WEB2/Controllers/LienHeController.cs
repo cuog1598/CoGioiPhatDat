@@ -19,6 +19,10 @@ namespace WEB2.Controllers
         }
         public ActionResult Inde222x()
         {
+            return view();
+        }
+         public ActionResult Inde2x()
+        {
             return View();
         }
     }
