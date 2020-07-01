@@ -14,7 +14,10 @@ namespace WEB2.Controllers
             return View();
         }
 
-      
+      public ActionResult Index52222222222()
+        {
+            return View();
+        }
         public ActionResult Index5()
         {
             return View();
