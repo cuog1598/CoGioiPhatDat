@@ -13,25 +13,6 @@ namespace WEB2.Controllers
         {
             return View();
         }
-        
-        // GET: DichVu
-        public ActionResult Index2()
-        {
-            return View();
-        }
-        // GET: DichVu
-        public ActionResult Index3()
-        {
-            return View();
-        }
-
-        public ActionResult Index4()
-        {
-            return View();
-        }
-        public ActionResult Index5()
-        {
-            return View();
-        }
+      
     }
 }
